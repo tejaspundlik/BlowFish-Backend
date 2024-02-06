@@ -1,1 +1,2 @@
 FLASK == 3.0.2
+GUNICORN == 21.2.0
